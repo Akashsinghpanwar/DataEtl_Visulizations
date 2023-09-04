@@ -1,6 +1,6 @@
 # About Akash panwar's portfolio
 
-# [Project 1: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/MasculinitySurvey_16702528343170/Maindashboard)
+# [Project 1: Survey on Masculinity in the USA]
 This is the first project I did for my portfolio, where I built dashboards using a masculinity dataset.
 
 * Data was taken from the masculinitysurvey dataset.
